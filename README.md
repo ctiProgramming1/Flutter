@@ -26,4 +26,4 @@
 * [Icons](https://api.flutter.dev/flutter/material/Icons-class.html)
 * [Adding assets and images](https://docs.flutter.dev/ui/assets/assets-and-images)
 * [CircleAvatar](https://api.flutter.dev/flutter/material/CircleAvatar-class.html)
-* [Use a custom font Design]([https://material.io/](https://docs.flutter.dev/cookbook/design/fonts)
+* [Use a custom font Design](https://docs.flutter.dev/cookbook/design/fonts)
