@@ -23,7 +23,7 @@
 * [Column](https://api.flutter.dev/flutter/widgets/Column-class.html)
 * [Row](https://api.flutter.dev/flutter/widgets/Row-class.html)
 * [Image](https://api.flutter.dev/flutter/widgets/Image-class.html)
-* [Icons](https://api.flutter.dev/flutter/material/Icons-class.html)
+* [Icon](https://api.flutter.dev/flutter/widgets/Icon-class.html)
 * [Adding assets and images](https://docs.flutter.dev/ui/assets/assets-and-images)
 * [CircleAvatar](https://api.flutter.dev/flutter/material/CircleAvatar-class.html)
 * [Use a custom font Design](https://docs.flutter.dev/cookbook/design/fonts)
