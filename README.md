@@ -11,3 +11,19 @@
 * [Learn More About the Pubspec File](https://www.dartlang.org/tools/pub/pubspec)
 * [Adding Assets](https://flutter.dev/docs/development/ui/assets-and-images)
 * [Generating App Icons with AppIcon.co](https://appicon.co/)
+
+
+#  Week 4
+
+* [Layout widgets](https://docs.flutter.dev/ui/widgets/layout)
+* [Center](https://api.flutter.dev/flutter/widgets/Center-class.html)
+* [Container](https://api.flutter.dev/flutter/widgets/Container-class.html)
+* [Padding](https://api.flutter.dev/flutter/widgets/Padding-class.html)
+* [SizedBox](https://api.flutter.dev/flutter/widgets/SizedBox-class.html)
+* [Column](https://api.flutter.dev/flutter/widgets/Column-class.html)
+* [Row](https://api.flutter.dev/flutter/widgets/Row-class.html)
+* [Image](https://api.flutter.dev/flutter/widgets/Image-class.html)
+* [Icons](https://api.flutter.dev/flutter/material/Icons-class.html)
+* [Adding assets and images](https://docs.flutter.dev/ui/assets/assets-and-images)
+* [CircleAvatar](https://api.flutter.dev/flutter/material/CircleAvatar-class.html)
+* [Use a custom font Design]([https://material.io/](https://docs.flutter.dev/cookbook/design/fonts)
