@@ -22,8 +22,16 @@
 * [SizedBox](https://api.flutter.dev/flutter/widgets/SizedBox-class.html)
 * [Column](https://api.flutter.dev/flutter/widgets/Column-class.html)
 * [Row](https://api.flutter.dev/flutter/widgets/Row-class.html)
+* [TextStyle](https://api.flutter.dev/flutter/painting/TextStyle-class.html)
 * [Icon](https://api.flutter.dev/flutter/widgets/Icon-class.html)
 * [Adding assets and images](https://docs.flutter.dev/ui/assets/assets-and-images)
 * [Image](https://api.flutter.dev/flutter/widgets/Image-class.html)
 * [CircleAvatar](https://api.flutter.dev/flutter/material/CircleAvatar-class.html)
 * [Use a custom font Design](https://docs.flutter.dev/cookbook/design/fonts)
+
+
+
+#  Additional for Week 4 Test
+
+* [Card](https://api.flutter.dev/flutter/material/Card-class.html)
+* [ListTile](https://api.flutter.dev/flutter/material/ListTile-class.html)
