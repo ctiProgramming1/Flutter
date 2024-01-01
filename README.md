@@ -46,3 +46,13 @@
 * [Data Types](https://dart.dev/language/built-in-types)
 
   
+
+#  Week 6
+
+* [Stateful and Stateless Widgets](https://docs.flutter.dev/ui/interactivity)
+* [math library](https://api.dart.dev/stable/3.2.4/dart-math/dart-math-library.html)
+* [Random](https://api.dart.dev/stable/3.2.4/dart-math/Random-class.html)
+* [DartPad](https://dartpad.dev/)
+
+
+  
