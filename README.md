@@ -55,4 +55,9 @@
 * [DartPad](https://dartpad.dev/)
 
 
-  
+#  Week 7
+
+* [How to Build a Custom Widget in Flutter]([https://docs.flutter.dev/ui/interactivity](https://www.freecodecamp.org/news/how-to-build-a-custom-widget-in-flutter/)https://www.freecodecamp.org/news/how-to-build-a-custom-widget-in-flutter/)
+
+
+
