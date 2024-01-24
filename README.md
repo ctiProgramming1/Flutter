@@ -60,4 +60,11 @@
 * [How to Build a Custom Widget in Flutter](https://www.freecodecamp.org/news/how-to-build-a-custom-widget-in-flutter/)
 
 
+#  Week 8
+
+* [Navigate to a new screen and back](https://docs.flutter.dev/cookbook/navigation/navigation-basics)
+* [Create and style a text field](https://docs.flutter.dev/cookbook/forms/text-input)
+* [Handle changes to a text field](https://docs.flutter.dev/cookbook/forms/text-field-changes)
+
+
 
