@@ -36,7 +36,11 @@
 * [Card](https://api.flutter.dev/flutter/material/Card-class.html)
 * [ListTile](https://api.flutter.dev/flutter/material/ListTile-class.html)
 
+#  Week 4.5
 
+* [Stateful and Stateless Widgets](https://docs.flutter.dev/ui/interactivity)
+* [ElevatedButton](https://api.flutter.dev/flutter/material/ElevatedButton-class.html)
+* [GestureDetector](https://api.flutter.dev/flutter/widgets/GestureDetector-class.html)
 
 #  Week 5
 
