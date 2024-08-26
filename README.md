@@ -13,7 +13,7 @@
 * [Generating App Icons with AppIcon.co](https://appicon.co/)
 
 
-#  Week 4
+#  Week 1
 
 * [Layout widgets](https://docs.flutter.dev/ui/widgets/layout)
 * [Center](https://api.flutter.dev/flutter/widgets/Center-class.html)
@@ -24,6 +24,9 @@
 * [Row](https://api.flutter.dev/flutter/widgets/Row-class.html)
 * [TextStyle](https://api.flutter.dev/flutter/painting/TextStyle-class.html)
 * [Icon](https://api.flutter.dev/flutter/widgets/Icon-class.html)
+
+#  Week 2
+
 * [Adding assets and images](https://docs.flutter.dev/ui/assets/assets-and-images)
 * [Image](https://api.flutter.dev/flutter/widgets/Image-class.html)
 * [CircleAvatar](https://api.flutter.dev/flutter/material/CircleAvatar-class.html)
