@@ -1,18 +1,14 @@
 # Flutter
 
-## Resources
+#  Week 0
 
-* [Material Design](https://material.io/)
-* [Scaffold Documentation](https://api.flutter.dev/flutter/material/Scaffold-class.html)
-* [AppBar Documentation](https://docs.flutter.io/flutter/material/AppBar-class.html)
-* [Material Design Colour System](https://material.io/design/color/the-color-system.html)
-* [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
-* [Make Flowcharts with Draw.io](https://www.draw.io/)
-* [Learn More About the Pubspec File](https://www.dartlang.org/tools/pub/pubspec)
-* [Adding Assets](https://flutter.dev/docs/development/ui/assets-and-images)
-* [Generating App Icons with AppIcon.co](https://appicon.co/)
+* [Flutter Installation](https://docs.flutter.dev/get-started/install)
+* [MaterialApp](https://api.flutter.dev/flutter/material/MaterialApp-class.html)
+* [Scaffold](https://api.flutter.dev/flutter/material/Scaffold-class.html)
+* [AppBar](https://api.flutter.dev/flutter/material/AppBar-class.html)
+* [Colors](https://api.flutter.dev/flutter/material/Colors-class.html)
 
-
+  
 #  Week 1
 
 * [Layout widgets](https://docs.flutter.dev/ui/widgets/layout)
@@ -79,3 +75,18 @@
 * [ListView](https://api.flutter.dev/flutter/widgets/ListView-class.html)
 * [ListView.builder](https://api.flutter.dev/flutter/widgets/ListView/ListView.builder.html)
 * [Work with long lists](https://docs.flutter.dev/cookbook/lists/long-lists)
+
+
+
+## Resources
+
+* [Material Design](https://material.io/)
+* [Scaffold Documentation](https://api.flutter.dev/flutter/material/Scaffold-class.html)
+* [AppBar Documentation](https://docs.flutter.io/flutter/material/AppBar-class.html)
+* [Material Design Colour System](https://material.io/design/color/the-color-system.html)
+* [Image Widget Documentation](https://docs.flutter.io/flutter/widgets/Image-class.html)
+* [Make Flowcharts with Draw.io](https://www.draw.io/)
+* [Learn More About the Pubspec File](https://www.dartlang.org/tools/pub/pubspec)
+* [Adding Assets](https://flutter.dev/docs/development/ui/assets-and-images)
+* [Generating App Icons with AppIcon.co](https://appicon.co/)
+
