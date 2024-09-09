@@ -22,6 +22,7 @@
 * [Row](https://api.flutter.dev/flutter/widgets/Row-class.html)
 * [TextStyle](https://api.flutter.dev/flutter/painting/TextStyle-class.html)
 * [Icon](https://api.flutter.dev/flutter/widgets/Icon-class.html)
+* [Icons Gallery](https://flutter-vector-icons.vercel.app/#/)
 
 #  Week 2
 
