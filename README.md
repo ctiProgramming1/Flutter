@@ -41,10 +41,9 @@
 
 #  Week 5
 
-* [Expanded](https://api.flutter.dev/flutter/widgets/Expanded-class.html)
 * [Functions](https://api.flutter.dev/flutter/dart-core/Function-class.html)
 * [Data Types](https://dart.dev/language/built-in-types)
-
+* [Expanded](https://api.flutter.dev/flutter/widgets/Expanded-class.html)
   
 
 #  Week 6
