@@ -1,6 +1,7 @@
 # Flutter
 
 [FlutLab.io](https://flutlab.io/editor)
+[DartPad](https://dartpad.dev/)
 
 #  Week 1
 
@@ -48,25 +49,19 @@
 
 #  Week 6
 
-* [Stateful and Stateless Widgets](https://docs.flutter.dev/ui/interactivity)
+* [Custom Widget in Flutter](https://www.freecodecamp.org/news/how-to-build-a-custom-widget-in-flutter/)
 * [math library](https://api.dart.dev/stable/3.2.4/dart-math/dart-math-library.html)
 * [Random](https://api.dart.dev/stable/3.2.4/dart-math/Random-class.html)
-* [DartPad](https://dartpad.dev/)
 
 
 #  Week 7
-
-* [How to Build a Custom Widget in Flutter](https://www.freecodecamp.org/news/how-to-build-a-custom-widget-in-flutter/)
-
-
-#  Week 8
 
 * [Navigate to a new screen and back](https://docs.flutter.dev/cookbook/navigation/navigation-basics)
 * [Create and style a text field](https://docs.flutter.dev/cookbook/forms/text-input)
 * [Handle changes to a text field](https://docs.flutter.dev/cookbook/forms/text-field-changes)
 
 
-#  Week 9
+#  Week 8
 
 * [Card](https://api.flutter.dev/flutter/material/Card-class.html)
 * [ListTile](https://api.flutter.dev/flutter/material/ListTile-class.html)
