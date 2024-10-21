@@ -56,13 +56,21 @@
 
 #  Week 7
 
-* [Navigate to a new screen and back](https://docs.flutter.dev/cookbook/navigation/navigation-basics)
+* [Flutter Forms](https://docs.flutter.dev/cookbook/forms)
+* [Form Class](https://api.flutter.dev/flutter/widgets/Form-class.html)
+* [TextField class](https://api.flutter.dev/flutter/material/TextField-class.html)
+* [TextFormField](https://api.flutter.dev/flutter/material/TextFormField-class.html)
+* [Radio class](https://api.flutter.dev/flutter/material/Radio-class.html)
+* [Checkbox class](https://api.flutter.dev/flutter/material/Checkbox-class.html)
+* [Build a form with validation](https://docs.flutter.dev/cookbook/forms/validation)
 * [Create and style a text field](https://docs.flutter.dev/cookbook/forms/text-input)
 * [Handle changes to a text field](https://docs.flutter.dev/cookbook/forms/text-field-changes)
 
 
 #  Week 8
 
+
+* [Navigate to a new screen and back](https://docs.flutter.dev/cookbook/navigation/navigation-basics)
 * [Card](https://api.flutter.dev/flutter/material/Card-class.html)
 * [ListTile](https://api.flutter.dev/flutter/material/ListTile-class.html)
 * [ListView](https://api.flutter.dev/flutter/widgets/ListView-class.html)
