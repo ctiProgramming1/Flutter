@@ -71,12 +71,19 @@
 
 
 * [Navigate to a new screen and back](https://docs.flutter.dev/cookbook/navigation/navigation-basics)
+* [Send data to a new screen](https://docs.flutter.dev/cookbook/navigation/passing-data)
+* [Navigate with named routes](https://docs.flutter.dev/cookbook/navigation/named-routes)
+* [Pass arguments to a named route](https://docs.flutter.dev/cookbook/navigation/navigate-with-arguments)
+* [DropdownMenu](https://api.flutter.dev/flutter/material/DropdownMenu-class.html)
+* [Slider](https://api.flutter.dev/flutter/material/Slider-class.html)
+
+
+#  Week 9
 * [Card](https://api.flutter.dev/flutter/material/Card-class.html)
 * [ListTile](https://api.flutter.dev/flutter/material/ListTile-class.html)
 * [ListView](https://api.flutter.dev/flutter/widgets/ListView-class.html)
 * [ListView.builder](https://api.flutter.dev/flutter/widgets/ListView/ListView.builder.html)
 * [Work with long lists](https://docs.flutter.dev/cookbook/lists/long-lists)
-
 
 
 ## Resources
