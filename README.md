@@ -78,7 +78,7 @@
 * [Slider](https://api.flutter.dev/flutter/material/Slider-class.html)
 
 
-#  Week 9
+#  [Week 9](https://github.com/ctiProgramming1/Flutter/blob/main/resources/Week%209_%20Card%20-%20ListTile%20-%20ListView.pdf)
 * [Card](https://api.flutter.dev/flutter/material/Card-class.html)
 * [ListTile](https://api.flutter.dev/flutter/material/ListTile-class.html)
 * [ListView](https://api.flutter.dev/flutter/widgets/ListView-class.html)
