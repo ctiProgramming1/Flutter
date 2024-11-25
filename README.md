@@ -40,21 +40,21 @@
 * [ElevatedButton](https://api.flutter.dev/flutter/material/ElevatedButton-class.html)
 * [GestureDetector](https://api.flutter.dev/flutter/widgets/GestureDetector-class.html)
 
-#  [Week 5](resources/Week 5_ Dart Functions -  Data Types  - Expanded Widget.pdf)
+#  [Week 5](https://github.com/ctiProgramming1/Flutter/blob/main/resources/Week%205_%20Dart%20Functions%20-%20%20Data%20Types%20%20-%20Expanded%20Widget.pdf)
 
 * [Functions](https://api.flutter.dev/flutter/dart-core/Function-class.html)
 * [Data Types](https://dart.dev/language/built-in-types)
 * [Expanded](https://api.flutter.dev/flutter/widgets/Expanded-class.html)
   
 
-#  Week 6
+#  [Week 6](https://github.com/ctiProgramming1/Flutter/blob/main/resources/Week%206_%20Custom%20Widgets%20-%20math%20library%20-%20Random.pdf)
 
 * [Custom Widget in Flutter](https://www.freecodecamp.org/news/how-to-build-a-custom-widget-in-flutter/)
 * [math library](https://api.dart.dev/stable/3.2.4/dart-math/dart-math-library.html)
 * [Random](https://api.dart.dev/stable/3.2.4/dart-math/Random-class.html)
 
 
-#  Week 7
+#  [Week 7](https://github.com/ctiProgramming1/Flutter/blob/main/resources/Week%207_%20Forms%20in%20Flutter%20-%20TextField%20-%20TextFormField%20-%20Radio%20-%20Checkbox.pdf)
 
 * [Flutter Forms](https://docs.flutter.dev/cookbook/forms)
 * [Form Class](https://api.flutter.dev/flutter/widgets/Form-class.html)
@@ -67,7 +67,7 @@
 * [Handle changes to a text field](https://docs.flutter.dev/cookbook/forms/text-field-changes)
 
 
-#  Week 8
+#  [Week 8](https://github.com/ctiProgramming1/Flutter/blob/main/resources/Week%208_%20Navigation%20in%20Flutter%20-%20DropdownMenu%20-%20%20Slider.pdf)
 
 
 * [Navigate to a new screen and back](https://docs.flutter.dev/cookbook/navigation/navigation-basics)
